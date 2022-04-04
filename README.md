@@ -9,6 +9,6 @@ t-SNE is a technique that visualizes high-dimensional data by giving each datapo
 An example of what the algorithm is capable of is seperating the following multi-dimensional data:
 ![Screenshot 2022-04-04 at 23 46 24](https://user-images.githubusercontent.com/15799390/161637758-d987ecd2-c296-4918-a95e-b2b5d4de847a.png)
 
-Into:
+Into:<br/>
 ![Screenshot 2022-04-04 at 23 46 33](https://user-images.githubusercontent.com/15799390/161637738-9e15463a-8a71-40c3-8fe3-d4d0c4e8bd7e.png)
 
