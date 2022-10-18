@@ -6,9 +6,16 @@ t-SNE is a technique that visualizes high-dimensional data by giving each datapo
 
 
 ### Results
-An example of what the algorithm is capable of is seperating the following multi-dimensional data (projected into 2d):
-![Screenshot 2022-04-04 at 23 46 24](https://user-images.githubusercontent.com/15799390/161637758-d987ecd2-c296-4918-a95e-b2b5d4de847a.png)
+An example of what the algorithm is capable of is projecting the following 3D data:<br>
+![3d](https://user-images.githubusercontent.com/15799390/196543426-5841fcf6-0fce-4b54-ad2c-1e69068ef1a8.png)
+
 
 Into:<br/>
-![Screenshot 2022-04-04 at 23 46 33](https://user-images.githubusercontent.com/15799390/161637738-9e15463a-8a71-40c3-8fe3-d4d0c4e8bd7e.png)
+![good](https://user-images.githubusercontent.com/15799390/196543535-5b75b172-b599-4a7c-86ad-6c5fc9a24ce7.png)
+
+If PCA was to be used instead one would get the following result: <br>
+![pca](https://user-images.githubusercontent.com/15799390/196544038-c273ebb5-f41c-4775-aed5-d8633199e3e8.png)
+
+It is clear the t-SNE sometimes clearly is better at representing the data in a lower dimensionality than PCA.
+
 
